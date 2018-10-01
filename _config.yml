@@ -1,0 +1,51 @@
+title: Kevin Blicharski
+url: "https://kblicharski.github.io"
+baseurl: 
+home: "/"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: ""
+footer_text: "&copy; 2018 Kevin Blicharski"
+
+favicon: true
+favicon_url: "favicon.ico"
+
+avatar_url: "assets/img/me.jpeg"
+github_icon: "assets/img/mark-github.svg"
+gitlab_icon: "assets/img/mark-gitlab.svg"
+linkedin_icon: "assets/img/mark-linkedin.png"
+devpost_icon: "assets/img/mark-devpost.svg"
+stackoverflow_icon: "assets/img/mark-stackoverflow.svg"
+twitter_icon: "assets/img/mark-twitter.svg"
+uiowa_logo: "assets/img/uiowa-logo.png"
+
+github_url: "https://github.com/kblicharski/"
+gitlab_url: "https://gitlab.com/kblicharski"
+linkedin_url: "https://www.linkedin.com/in/kblicharski/"
+devpost_url: "https://devpost.com/kblicharski"
+stackoverflow_url: "https://stackoverflow.com/users/8261793/kevin-blicharski"
+twitter_url: "https://twitter.com/kevinblicharski"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Education"
+   link: "education"
+ - name: "Experience"
+   link: "experience"
+ - name: "Projects"
+   link: "projects"
+ - name: "Resume"
+   link: "resume.pdf"
+
+defaults:
+ - scope:
+     path: "assets/img"
+   values:
+     image: true
