@@ -22,6 +22,9 @@ devpost_icon: "assets/img/mark-devpost.svg"
 stackoverflow_icon: "assets/img/mark-stackoverflow.svg"
 twitter_icon: "assets/img/mark-twitter.svg"
 uiowa_logo: "assets/img/uiowa-logo.png"
+hackiowa_logo: "assets/img/hackiowa-logo.png"
+acm_logo: "assets/img/acm-logo.svg"
+ieee_logo: "assets/img/ieee-logo.svg"
 
 github_url: "https://github.com/kblicharski/"
 gitlab_url: "https://gitlab.com/kblicharski"
@@ -29,6 +32,8 @@ linkedin_url: "https://www.linkedin.com/in/kblicharski/"
 devpost_url: "https://devpost.com/kblicharski"
 stackoverflow_url: "https://stackoverflow.com/users/8261793/kevin-blicharski"
 twitter_url: "https://twitter.com/kevinblicharski"
+
+hackathon_faq: "https://mlh.io/faq#what-is-a-hackathon"
 
 sass:
     style: compressed

@@ -1,7 +1,8 @@
 ## Contact
 
-* Email: [blicharskikevin@gmail.com](mailto:blicharskikevin@gmail.com)
-* Portfolio: [Devpost]({{ site.devpost_url }})
+<p style="color: #FF9C07">
+    blicharskikevin {at} gmail.com
+</p>
 <div class="contact-pictures">
 <!-- GitHub Link -->
 <a href="{{ site.github_url }}">
