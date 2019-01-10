@@ -25,7 +25,6 @@ layout: default
     alt="HackIowa Logo">
 - Founded HackIowa in 2017 to cultivate a passionate hacker community
 - Increased hackathon accessibility and provided students with new skills through workshops
-- Gained experience running an organization and delegating tasks
 - Increased UIowa's MLH Overall Rank of #102 to #7 in one year
 
 
