@@ -12,7 +12,7 @@ layout: default
 
 * Computer Science and Engineering B.S.E.
 * Expected Graduation: **May 2019**
-* GPA: **4.05/4.33**
+* GPA: **4.07/4.33**
 
 ---
 
