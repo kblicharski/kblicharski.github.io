@@ -1,7 +1,7 @@
 ## About Me
 <img class="profile-picture" src="{{ site.avatar_url }}">
 
-Hello, and welcome to my website! It's still under construction -- I have plans for a blog and a CSS re-design when I have free time, namely to make the website more responsive and unique than a cookie-cutter Jekyll theme.
+Hello, and welcome to my website! It's still under construction -- I have plans for a blog and a CSS re-design. I also still need to clean up some of the content on here, so I apologize for the mess in the meantime!
 
 Anyways, I'm currently a senior at the University of Iowa studying Computer Science & Engineering.
 
