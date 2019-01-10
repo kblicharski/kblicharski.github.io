@@ -1,9 +1,9 @@
 ## About Me
 <img class="profile-picture" src="{{ site.avatar_url }}">
 
-Hello, and welcome to my website!
+Hello, and welcome to my website! It's still under construction -- I have plans for a blog and a CSS re-design when I have free time, namely to make the website more responsive and unique than a cookie-cutter Jekyll theme.
 
-I'm a senior at the University of Iowa studying Computer Science & Engineering.
+Anyways, I'm currently a senior at the University of Iowa studying Computer Science & Engineering.
 
 After I graduate this May, I'm intent on pursuing a master's degree. That's why I'm seeking an internship rather than a full-time position for this summer.
 

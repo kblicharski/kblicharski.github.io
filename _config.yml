@@ -48,6 +48,8 @@ nav:
    link: "projects"
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Blog"
+   link: "blog"
 
 defaults:
  - scope:
