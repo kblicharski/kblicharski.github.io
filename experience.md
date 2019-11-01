@@ -6,8 +6,13 @@ layout: default
 
 ---
 
+### Research Assistant @ The Computational Logic Center
+#### *August 2019 - Present*
+
+---
+
 ### Fullstack Software Engineering Intern @ The Signal Center
-#### *May 2017 - Present*
+#### *May 2017 - August 2019*
 
 I've worked at The Signal Center for the better part of two years now -- full time during the summer and school breaks, and part time otherwise. The projects I work on are fundamentally research-oriented and are associated with the Computational Epidemiology Group at the University of Iowa. The application I have been working on for the most part is called Maptrek. It's a web application which integrates the Fitbit and Google Maps APIs in order to allow participants to view their progress on a real-world route and compete with people of similar activity levels.
 
@@ -15,12 +20,10 @@ When I started during the summer of 2017, I worked on an API wrapper for Hologra
 
 Since then I've been working as time permits, with my academic success being prioritized. For this reason, my time worked has varied dramatically, from working 40 hours a week to not at all for a month. Thankfully, the position affords a great deal of flexibility, and I've been working remotely and independently for the majority of it. The position has forced me to learn a little about everything -- frontend, backend, devops, and everything inbetween.
 
-It is certainly an atypical job, moreso an atypical first internship, but I am thankful for it and I certainly would not have matured as quickly in a corporate setting. I feel adequately equipped to learn frameworks and tools as needed.
-
 ---
 
 ### Backend Software Developer @ Graze Analytics
-#### *December 2018 - Present*
+#### *December 2018 - August 2019*
 
 This position has me mainly doing Ruby on Rails and React development work, with devops and deployment where needed. This was initially my senior design project, but our team has decided to commit more time to it in order to found our own startup. Currently it is me and three other developers, but we're excited with our product and think it has business potential. This position takes up around 10 hours of my time per week, but it will probably increase as we get closer to launch.
 
