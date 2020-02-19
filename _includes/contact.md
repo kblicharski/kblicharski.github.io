@@ -1,8 +1,7 @@
 ## Contact
 
-<p style="color: #FF9C07">
-    blicharskikevin {at} gmail.com
-</p>
+    blicharski.kevin {at} gmail.com
+
 <div class="contact-pictures">
 <!-- GitHub Link -->
 <a href="{{ site.github_url }}">
@@ -20,14 +19,13 @@
         alt="GitLab">
 </a>
 
-<!-- Devpost Link
+<!-- Devpost Link -->
 <a href="{{ site.devpost_url }}">
     <img 
         class="contact-picture" 
         src="{{ site.devpost_icon }}" 
         alt="Devpost">
 </a>
--->
 
 <!-- LinkedIn Link -->
 <a href="{{ site.linkedin_url }}">
@@ -37,14 +35,15 @@
         alt="LinkedIn">
 </a>
 
-<!-- Twitter Link -->
+<!-- Twitter Link 
 <a href="{{ site.twitter_url }}">
     <img 
-        class="contact-picture" 
+   Pages for my non-technical interests/hobbies
+   za  class="contact-picture" 
         src="{{ site.twitter_icon }}" 
         alt="Twitter">
 </a>
-
+-->
 <!-- Stackoverflow Link -->
 <a href="{{ site.stackoverflow_url }}">
     <img 

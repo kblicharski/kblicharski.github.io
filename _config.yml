@@ -9,10 +9,10 @@ tracking_id: #
 
 footer: yes
 footer_url: ""
-footer_text: "&copy; 2019 Kevin Blicharski"
+footer_text: "&copy; 2020 Kevin Blicharski"
 
 favicon: true
-favicon_url: "favicon.ico"
+favicon_location: "assets/favicon"
 
 avatar_url: "assets/img/me.jpeg"
 github_icon: "assets/img/mark-github.svg"
@@ -40,16 +40,14 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Education"
-   link: "education"
- - name: "Experience"
-   link: "experience"
+ # - name: "Education"
+ #   link: "education"
+ # - name: "Experience"
+ #   link: "experience"
  - name: "Projects"
    link: "projects"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Blog"
-   link: "blog"
 
 defaults:
  - scope:

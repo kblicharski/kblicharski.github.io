@@ -10,9 +10,10 @@ layout: default
     src="{{ site.uiowa_logo }}"
     alt="University of Iowa Logo">
 
-* Computer Science and Engineering B.S.E.
-* Expected Graduation: **May 2019**
-* GPA: **4.07/4.33**
+- Computer Science and Engineering MS
+- *Aug 2019 - May 2020*, *GPA: 3.87* 
+- Computer Science and Engineering BSE
+- *Aug 2016 - May 2019*, *GPA: 4.08* 
 
 ---
 
@@ -26,7 +27,6 @@ layout: default
 - Founded HackIowa in 2017 to cultivate a passionate hacker community
 - Increased hackathon accessibility and provided students with new skills through workshops
 - Increased UIowa's MLH Overall Rank of #102 to #7 in one year
-
 
 #### ACM
 <img

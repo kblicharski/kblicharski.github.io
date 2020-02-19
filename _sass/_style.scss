@@ -1,6 +1,4 @@
 @import "vars";
-//@import url("https://fonts.googleapis.com/css?family=Inconsolata");
-//@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:200');
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:300');
 
 /*
@@ -13,16 +11,14 @@ html {
 }
 body {
     margin: 0;
-    //font-family: 'Ubuntu Mono', monospace;
-    //font-family: 'Ubuntu', sans-serif;
-    //font-family: 'Source Code Pro', monospace;
     font-family: 'Work Sans', sans-serif;
-    //font-family: "Inconsolata";
     height: 100%;
+    background-color: $bg-color;
 }
 a {
     text-decoration: none;
-    color: $accent;
+    color: $navbar-link-color;
+    text-shadow: 0.4px 0.4px;
 }
 a:hover {
     text-decoration: underline;
@@ -43,13 +39,12 @@ hr {
     display: inline-block;
 }
 .navbar {
-    padding: 50px 0 35px 0;
+    padding: 50px 0 30px 0;
 }
 .navbar-ul {
     display: inline-block;
     margin: 0;
     padding: 5px 0 5px 0;
-    margin-left: 20px;
 }
 .nav-list {
     list-style-type: none;
@@ -68,7 +63,7 @@ hr {
     float: left;
 }
 .pull-right {
-    @extend .alignable;
+   @extend .alignable;
     float: right;
 }
 

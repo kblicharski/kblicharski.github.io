@@ -1,10 +1,16 @@
 ## About Me
 <img class="profile-picture" src="{{ site.avatar_url }}">
 
-Hello, and welcome to my website! It's still under construction -- I have plans for a blog and a CSS re-design. I also still need to clean up some of the content on here, so I apologize for the mess in the meantime!
+*I'm actively editing this website now as I ramp up my job search. Keep in mind that the content here may change dramatically and suddenly within the next few days. My resume will probably have the most accurate information for a little while.*
 
-Anyways, I'm currently a senior at the University of Iowa studying Computer Science & Engineering.
+I'm a graduate student currently employed as a Research Assistant for the [Computational Logic Center](http://clc.cs.uiowa.edu/site/). I will be graduating this May and as such I'm actively searching for full-time SDE positions.
 
-After I graduate this May, I'm intent on pursuing a master's degree. That's why I'm seeking an internship rather than a full-time position for this summer.
+During my four years in college, my work experience has primarily been in startup and research environments. This has led me to become a jack-of-all-trades (although certainly not a master of none -- at least I would like to think so), and as such I feel comfortable doing frontend, backend, or devops work as needed. I have been forced to be relatively self-sufficient during most of my jobs and I consider myself a quick learner. If you're interested in hiring me, please do give me a call or send me an email.
 
-I have had extensive professional experience with a broad set of technologies, programming languages, and fields. This has been primarily in start-up or research environments, where the ability to learn quickly is mandatory. This has made me into a jack-of-all-trades -- I have had exposure to frontend, backend, devops, and everything inbetween. I hope that this shines through in my code and my projects. If you have any questions, don't hesitate to send me an email!
+My eventual intent with this site is to fully document my personal projects, work experience, and other endeavours (a one page resume just isn't cutting it anymore). Once I graduate I may even start up a blog, but I'm certainly too busy for that right now. Stay tuned.
+
+### Coming Soon™
+
+- More (and more recent) photos
+- Pages for my non-technical interests/hobbies
+- CSS redesign!!! (While this theme is convenient, it is pretty boring. I've never actually **learned** CSS before, but it might be a cool project over the summer to try and make this site [Lain themed](https://fauux.neocities.org/), or maybe something nostalgic with lots of drop shadows. Not exactly sure yet.)
